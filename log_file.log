@@ -1,0 +1,8 @@
+2020-04-12 18:24:14 ERROR TxtFileReader:49 - For input string: "q3900".
+Line: Pas 6.2 q3900 D_30KU 3 EW-268-EE 18000 180 0
+2020-04-12 18:24:14 ERROR TxtFileReader:46 - Not enough parameters. Index: 8, Size: 8.
+Line: Pas 2.5 5400 CFM56 2 EW-100AA 20540 189
+2020-04-12 18:24:14 ERROR TxtFileReader:49 - Incorrect data entry.
+Line: Pas 6.2 3900 D_30KU 3 EW-268-EE 18000 180 0
+2020-04-12 18:24:14 ERROR TxtFileReader:49 - No enum constant entites.Engine.D_18T1.
+Line: Car 15.9 15400 D_18T1 6 EW-10888 250000 4.5 4.0
